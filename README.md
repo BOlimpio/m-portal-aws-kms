@@ -1,5 +1,5 @@
 # m-portal-aws-kms-key
-This Terraform module facilitates the creation and management of keys in the AWS Key Management Service (KMS), including the option to create keys replicated across multiple regions. The module provides flexibility by allowing users to define custom IAM policy statements and offers predefined policies for common scenarios. **For additional resources, examples, and community engagement**, check out the portal [Cloud Collab Hub](https://cloudcollab.com) :cloud:.
+This Terraform module facilitates the creation and management of keys in the AWS Key Management Service (KMS), including the option to create keys replicated across multiple regions. The module provides flexibility by allowing users to define custom IAM policy statements and offers predefined policies for common scenarios. **For additional resources, examples, and community engagement**, check out the portal [Cloudymos](https://cloudymos.com) :cloud:.
 
 ## Usage
 
